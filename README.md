@@ -1,5 +1,5 @@
 ## Olá! ✌
-Me chamo Flávio e estou estudando programação, com foco no Front-End. 📲
+## Me chamo Flávio e estou estudando programação, com foco no Front-End. 📲
 
 - 💻 Pretendo trabalhar com Front-End
 - 📚 Atualmente estou estudando UI/UX design, SASS e Bootstrap
