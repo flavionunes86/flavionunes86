@@ -11,7 +11,7 @@
 </div>
 <br>
 
- ![Flávio`s GitHub stats](https://github-readme-stats.vercel.app/api?username=flavionunes86&show_icons=true&theme=gruvbox)
+ ![Flávio`s GitHub stats](https://github-readme-stats.vercel.app/api?username=flavionunes86&show_icons=true&theme=merko)
  
 
 
