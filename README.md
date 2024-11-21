@@ -18,6 +18,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=flavionunes86&show_icons=true&theme=dark"/>
 </div>
 
-![Flávio`s GitHub stats](https://github-readme-stats.vercel.app/api?username=flavionunes86&show_icons=true&theme=dark)
+![Flávio`s GitHub stats](https://github-readme-stats.vercel.app/api?username=flavionunes86&show_icons=true&theme=radical)
 
 
