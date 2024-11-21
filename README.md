@@ -7,7 +7,6 @@ Me chamo Flávio e estou estudando programação, com foco no Front-End. 📲
 
 <br>
 <div>
-  <a href="https://github.com/flavionunes86">
  ![Flávio`s GitHub stats](https://github-readme-stats.vercel.app/api?username=flavionunes86&show_icons=true&theme=gruvbox)
 </div>
 <br>
