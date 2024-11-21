@@ -15,9 +15,9 @@
 
 <div>
   <a href="https://github.com/flavionunes86">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=flavionunes86&show_icons=true&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=flavionunes86&show_icons=true&theme=merko"/>
 </div>
 
-![Flávio`s GitHub stats](https://github-readme-stats.vercel.app/api?username=flavionunes86&show_icons=true&theme=radical)
+![Flávio`s GitHub stats](https://github-readme-stats.vercel.app/api?username=flavionunes86&show_icons=true&theme=gruvbox)
 
 
